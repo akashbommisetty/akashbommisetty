@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>👋 Hi there! I'm <span style="color:#0e75b6">Bommisetty Akash</span></h1>
+<h1>👋 Hi there! I'm <span style="color:#0e75b6">Akash Bommisetty</span></h1>
 
 🎓 <b>B.Tech in Information Technology</b><br>
 Sri Venkateswara College of Engineering and Technology, Chittoor <br>
