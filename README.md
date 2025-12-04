@@ -1,6 +1,8 @@
 <div align="center">
 
 <h1>👋 Hi there! I'm <span style="color:#0e75b6">Akash Bommisetty</span></h1>
+💼 <b>AI/ML Engineer | Generative AI & LLM Specialist | Multi-Agent Systems Developer</b><br>
+🚀 Building production-grade AI agents, RAG pipelines, automation workflows, and intelligent backend systems.
 
 🎓 <b>B.Tech in Information Technology</b><br>
 Sri Venkateswara College of Engineering and Technology, Chittoor <br>
